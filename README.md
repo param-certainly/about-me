@@ -1,2 +1,2 @@
 # about-me
-A description about myself
+Just another cryptography enthusiast!
